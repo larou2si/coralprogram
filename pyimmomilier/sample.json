@@ -1,0 +1,4272 @@
+[
+    {
+        "id": 1,
+        "name": "Wagner-Medina",
+        "apparts": [
+            {
+                "id": 1,
+                "surface": "106.25",
+                "prix": "195945.81",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "surface": "101.75",
+                "prix": "236986.44",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "surface": "92.34",
+                "prix": "195054.90",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "surface": "77.96",
+                "prix": "88746.90",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "surface": "76.77",
+                "prix": "260728.97",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "surface": "115.33",
+                "prix": "130162.06",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "surface": "59.61",
+                "prix": "265308.14",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "surface": "108.75",
+                "prix": "90712.09",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "surface": "91.89",
+                "prix": "209394.37",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "surface": "56.14",
+                "prix": "184769.25",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "surface": "87.14",
+                "prix": "120039.56",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "surface": "109.55",
+                "prix": "131942.47",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "surface": "99.07",
+                "prix": "171831.23",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "surface": "68.41",
+                "prix": "252511.90",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "surface": "82.79",
+                "prix": "99755.15",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "surface": "95.27",
+                "prix": "211684.64",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "surface": "108.11",
+                "prix": "180269.25",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "surface": "69.70",
+                "prix": "126759.44",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "surface": "107.84",
+                "prix": "117778.79",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "surface": "102.03",
+                "prix": "244406.83",
+                "program": {
+                    "id": 1,
+                    "name": "Wagner-Medina",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": false
+    },
+    {
+        "id": 2,
+        "name": "Gonzalez and Sons",
+        "apparts": [
+            {
+                "id": 21,
+                "surface": "113.82",
+                "prix": "132134.69",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "surface": "83.19",
+                "prix": "159597.08",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "surface": "117.29",
+                "prix": "188591.16",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "surface": "69.34",
+                "prix": "248911.86",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "surface": "111.36",
+                "prix": "149842.54",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "surface": "111.91",
+                "prix": "177475.06",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "surface": "104.77",
+                "prix": "220454.37",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "surface": "107.01",
+                "prix": "224404.87",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "surface": "88.68",
+                "prix": "281183.86",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "surface": "118.05",
+                "prix": "142095.25",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "surface": "72.44",
+                "prix": "209338.08",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "surface": "76.50",
+                "prix": "158306.09",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "surface": "85.04",
+                "prix": "95497.43",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "surface": "74.57",
+                "prix": "297522.61",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "surface": "92.06",
+                "prix": "178557.88",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "surface": "79.38",
+                "prix": "241826.30",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "surface": "86.40",
+                "prix": "205613.94",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "surface": "78.29",
+                "prix": "198276.20",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "surface": "56.77",
+                "prix": "92833.57",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "surface": "86.81",
+                "prix": "213461.00",
+                "program": {
+                    "id": 2,
+                    "name": "Gonzalez and Sons",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            }
+        ],
+        "is_active": true
+    },
+    {
+        "id": 3,
+        "name": "Medina LLC",
+        "apparts": [
+            {
+                "id": 41,
+                "surface": "57.14",
+                "prix": "97672.65",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "surface": "52.19",
+                "prix": "239415.56",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "surface": "103.60",
+                "prix": "161868.67",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "surface": "106.64",
+                "prix": "256130.79",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "surface": "118.95",
+                "prix": "93399.39",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 46,
+                "surface": "80.41",
+                "prix": "206703.27",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 47,
+                "surface": "52.06",
+                "prix": "186222.11",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 48,
+                "surface": "97.61",
+                "prix": "223338.78",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 49,
+                "surface": "72.98",
+                "prix": "212132.08",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "surface": "119.70",
+                "prix": "181654.91",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 51,
+                "surface": "52.36",
+                "prix": "122744.94",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 52,
+                "surface": "72.48",
+                "prix": "136869.86",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 53,
+                "surface": "67.93",
+                "prix": "119038.30",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 54,
+                "surface": "72.95",
+                "prix": "84017.32",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 55,
+                "surface": "73.60",
+                "prix": "275283.69",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 56,
+                "surface": "78.47",
+                "prix": "210561.33",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 57,
+                "surface": "101.43",
+                "prix": "168833.99",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 58,
+                "surface": "52.66",
+                "prix": "95550.92",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 59,
+                "surface": "64.76",
+                "prix": "198306.75",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 60,
+                "surface": "50.17",
+                "prix": "202622.85",
+                "program": {
+                    "id": 3,
+                    "name": "Medina LLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": true
+    },
+    {
+        "id": 4,
+        "name": "Rios, Lewis and Hamilton",
+        "apparts": [
+            {
+                "id": 61,
+                "surface": "92.68",
+                "prix": "137563.91",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 62,
+                "surface": "97.70",
+                "prix": "188281.37",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 63,
+                "surface": "60.11",
+                "prix": "267742.82",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 64,
+                "surface": "90.53",
+                "prix": "224749.54",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 65,
+                "surface": "60.71",
+                "prix": "220808.99",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 66,
+                "surface": "88.19",
+                "prix": "144691.76",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 67,
+                "surface": "55.11",
+                "prix": "263847.09",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 68,
+                "surface": "102.72",
+                "prix": "207339.21",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 69,
+                "surface": "54.05",
+                "prix": "118026.73",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 70,
+                "surface": "57.13",
+                "prix": "274997.67",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 71,
+                "surface": "74.36",
+                "prix": "255526.55",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 72,
+                "surface": "64.45",
+                "prix": "292947.89",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 73,
+                "surface": "89.22",
+                "prix": "96315.56",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 74,
+                "surface": "107.77",
+                "prix": "236095.19",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 75,
+                "surface": "53.22",
+                "prix": "210049.97",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 76,
+                "surface": "117.17",
+                "prix": "244071.82",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 77,
+                "surface": "112.53",
+                "prix": "220329.13",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 78,
+                "surface": "61.51",
+                "prix": "231943.19",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 79,
+                "surface": "116.14",
+                "prix": "218731.72",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 80,
+                "surface": "116.23",
+                "prix": "87933.84",
+                "program": {
+                    "id": 4,
+                    "name": "Rios, Lewis and Hamilton",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": true
+    },
+    {
+        "id": 5,
+        "name": "Stephenson, Martin and Glenn",
+        "apparts": [
+            {
+                "id": 81,
+                "surface": "107.00",
+                "prix": "196550.86",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 82,
+                "surface": "52.85",
+                "prix": "153529.80",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 83,
+                "surface": "115.28",
+                "prix": "242604.37",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 84,
+                "surface": "104.06",
+                "prix": "122745.02",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 85,
+                "surface": "72.12",
+                "prix": "193568.84",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 86,
+                "surface": "93.83",
+                "prix": "125414.42",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 87,
+                "surface": "117.97",
+                "prix": "246070.41",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 88,
+                "surface": "55.61",
+                "prix": "167015.90",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 89,
+                "surface": "108.56",
+                "prix": "91061.27",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 90,
+                "surface": "76.08",
+                "prix": "85755.93",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 91,
+                "surface": "109.89",
+                "prix": "273078.83",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 92,
+                "surface": "99.75",
+                "prix": "216160.85",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 93,
+                "surface": "96.04",
+                "prix": "158559.97",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 94,
+                "surface": "67.03",
+                "prix": "294099.81",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 95,
+                "surface": "96.01",
+                "prix": "167750.56",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 96,
+                "surface": "76.57",
+                "prix": "179785.66",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 97,
+                "surface": "94.69",
+                "prix": "80837.84",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 98,
+                "surface": "57.09",
+                "prix": "296485.75",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 99,
+                "surface": "85.82",
+                "prix": "231686.56",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 100,
+                "surface": "93.72",
+                "prix": "111797.63",
+                "program": {
+                    "id": 5,
+                    "name": "Stephenson, Martin and Glenn",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": false
+    },
+    {
+        "id": 6,
+        "name": "Lopez Inc",
+        "apparts": [
+            {
+                "id": 101,
+                "surface": "62.86",
+                "prix": "176027.16",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 102,
+                "surface": "86.69",
+                "prix": "282485.67",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 103,
+                "surface": "69.70",
+                "prix": "181998.76",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 104,
+                "surface": "93.53",
+                "prix": "177126.84",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 105,
+                "surface": "52.93",
+                "prix": "231198.02",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 106,
+                "surface": "89.28",
+                "prix": "143372.73",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 107,
+                "surface": "94.16",
+                "prix": "149371.77",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 108,
+                "surface": "116.65",
+                "prix": "225611.27",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 109,
+                "surface": "109.08",
+                "prix": "299100.61",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 110,
+                "surface": "87.83",
+                "prix": "291730.12",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 111,
+                "surface": "84.67",
+                "prix": "142256.20",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 112,
+                "surface": "50.34",
+                "prix": "83571.80",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 113,
+                "surface": "112.14",
+                "prix": "143939.02",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 114,
+                "surface": "101.20",
+                "prix": "176841.27",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 115,
+                "surface": "51.67",
+                "prix": "194254.92",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 116,
+                "surface": "52.85",
+                "prix": "144995.12",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 117,
+                "surface": "107.76",
+                "prix": "217434.94",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 118,
+                "surface": "77.21",
+                "prix": "213670.16",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 119,
+                "surface": "113.18",
+                "prix": "204513.83",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 120,
+                "surface": "93.69",
+                "prix": "189170.56",
+                "program": {
+                    "id": 6,
+                    "name": "Lopez Inc",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": true
+    },
+    {
+        "id": 7,
+        "name": "Cole, Deleon and Acosta",
+        "apparts": [
+            {
+                "id": 121,
+                "surface": "64.75",
+                "prix": "232704.51",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 122,
+                "surface": "117.87",
+                "prix": "218430.43",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 123,
+                "surface": "72.61",
+                "prix": "153160.90",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 124,
+                "surface": "98.42",
+                "prix": "176109.84",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 125,
+                "surface": "91.24",
+                "prix": "244899.68",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 126,
+                "surface": "90.78",
+                "prix": "184729.98",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 127,
+                "surface": "54.76",
+                "prix": "270624.59",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 128,
+                "surface": "112.50",
+                "prix": "123793.02",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 129,
+                "surface": "60.04",
+                "prix": "231463.08",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 130,
+                "surface": "71.42",
+                "prix": "263464.35",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 131,
+                "surface": "80.75",
+                "prix": "92251.24",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 132,
+                "surface": "56.41",
+                "prix": "153250.87",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 133,
+                "surface": "55.13",
+                "prix": "163358.78",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 134,
+                "surface": "82.58",
+                "prix": "130612.99",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 135,
+                "surface": "73.16",
+                "prix": "175390.57",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 136,
+                "surface": "82.68",
+                "prix": "283886.04",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 137,
+                "surface": "103.60",
+                "prix": "107770.68",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 138,
+                "surface": "110.66",
+                "prix": "281416.63",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 139,
+                "surface": "85.83",
+                "prix": "165091.94",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 140,
+                "surface": "119.83",
+                "prix": "162445.40",
+                "program": {
+                    "id": 7,
+                    "name": "Cole, Deleon and Acosta",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": false
+    },
+    {
+        "id": 8,
+        "name": "Clark-Barr",
+        "apparts": [
+            {
+                "id": 141,
+                "surface": "91.64",
+                "prix": "232617.18",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 142,
+                "surface": "82.26",
+                "prix": "149133.57",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 143,
+                "surface": "66.55",
+                "prix": "186314.54",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 144,
+                "surface": "84.14",
+                "prix": "208797.44",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 145,
+                "surface": "82.58",
+                "prix": "123244.87",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 146,
+                "surface": "80.85",
+                "prix": "129521.45",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 147,
+                "surface": "115.68",
+                "prix": "234066.29",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 148,
+                "surface": "92.86",
+                "prix": "191886.79",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 149,
+                "surface": "52.37",
+                "prix": "188643.61",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 150,
+                "surface": "96.73",
+                "prix": "258745.01",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 151,
+                "surface": "113.09",
+                "prix": "144260.95",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 152,
+                "surface": "92.31",
+                "prix": "221090.37",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 153,
+                "surface": "116.53",
+                "prix": "292851.87",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 154,
+                "surface": "116.03",
+                "prix": "260885.92",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 155,
+                "surface": "74.82",
+                "prix": "186335.36",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 156,
+                "surface": "52.86",
+                "prix": "209763.19",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 157,
+                "surface": "56.69",
+                "prix": "266781.84",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 158,
+                "surface": "110.74",
+                "prix": "166682.55",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 159,
+                "surface": "101.24",
+                "prix": "199438.57",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 160,
+                "surface": "99.69",
+                "prix": "123541.78",
+                "program": {
+                    "id": 8,
+                    "name": "Clark-Barr",
+                    "is_active": false
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": false
+    },
+    {
+        "id": 9,
+        "name": "Dennis Ltd",
+        "apparts": [
+            {
+                "id": 161,
+                "surface": "113.93",
+                "prix": "85727.31",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 162,
+                "surface": "85.20",
+                "prix": "184977.20",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 163,
+                "surface": "72.12",
+                "prix": "153670.59",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 164,
+                "surface": "55.79",
+                "prix": "160901.87",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 165,
+                "surface": "77.40",
+                "prix": "176006.26",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 166,
+                "surface": "101.70",
+                "prix": "224385.40",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 167,
+                "surface": "96.14",
+                "prix": "265883.85",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 168,
+                "surface": "90.22",
+                "prix": "191504.53",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 169,
+                "surface": "84.71",
+                "prix": "138008.37",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 170,
+                "surface": "69.17",
+                "prix": "194542.75",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 171,
+                "surface": "113.32",
+                "prix": "144785.11",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 172,
+                "surface": "52.97",
+                "prix": "261174.17",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 173,
+                "surface": "52.88",
+                "prix": "259912.38",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 174,
+                "surface": "84.74",
+                "prix": "287763.05",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 175,
+                "surface": "70.61",
+                "prix": "281284.97",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 176,
+                "surface": "86.51",
+                "prix": "200098.75",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 177,
+                "surface": "99.13",
+                "prix": "223008.41",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 178,
+                "surface": "92.60",
+                "prix": "186570.56",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 179,
+                "surface": "56.23",
+                "prix": "243797.77",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    }
+                ]
+            },
+            {
+                "id": 180,
+                "surface": "90.86",
+                "prix": "284277.02",
+                "program": {
+                    "id": 9,
+                    "name": "Dennis Ltd",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            }
+        ],
+        "is_active": true
+    },
+    {
+        "id": 10,
+        "name": "Wood PLC",
+        "apparts": [
+            {
+                "id": 181,
+                "surface": "98.82",
+                "prix": "230308.41",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 182,
+                "surface": "67.28",
+                "prix": "101619.31",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 5,
+                        "name": "parking"
+                    }
+                ]
+            },
+            {
+                "id": 183,
+                "surface": "90.66",
+                "prix": "259509.09",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 184,
+                "surface": "97.88",
+                "prix": "230922.50",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 185,
+                "surface": "108.05",
+                "prix": "169061.22",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 186,
+                "surface": "108.70",
+                "prix": "127215.51",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 187,
+                "surface": "88.27",
+                "prix": "289108.86",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 188,
+                "surface": "101.34",
+                "prix": "159594.09",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    }
+                ]
+            },
+            {
+                "id": 189,
+                "surface": "108.01",
+                "prix": "105056.11",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 190,
+                "surface": "52.05",
+                "prix": "126476.26",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 191,
+                "surface": "88.79",
+                "prix": "98968.43",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 192,
+                "surface": "75.00",
+                "prix": "183683.62",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    }
+                ]
+            },
+            {
+                "id": 193,
+                "surface": "72.29",
+                "prix": "140771.55",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 2,
+                        "name": "piscine"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            },
+            {
+                "id": 194,
+                "surface": "74.69",
+                "prix": "162500.75",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 3,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 195,
+                "surface": "54.65",
+                "prix": "191832.94",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 2,
+                "caracteristiques": [
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 196,
+                "surface": "85.29",
+                "prix": "284480.01",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 1,
+                        "name": "proche station ski"
+                    },
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    }
+                ]
+            },
+            {
+                "id": 197,
+                "surface": "66.59",
+                "prix": "264577.66",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 4,
+                "caracteristiques": [
+                    {
+                        "id": 3,
+                        "name": "jardin"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 198,
+                "surface": "118.13",
+                "prix": "224015.03",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 7,
+                        "name": "Soundproofing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Modern Appliances"
+                    }
+                ]
+            },
+            {
+                "id": 199,
+                "surface": "63.33",
+                "prix": "104845.91",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 1,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Security"
+                    }
+                ]
+            },
+            {
+                "id": 200,
+                "surface": "112.58",
+                "prix": "183636.77",
+                "program": {
+                    "id": 10,
+                    "name": "Wood PLC",
+                    "is_active": true
+                },
+                "nomber_of_pieces": 5,
+                "caracteristiques": [
+                    {
+                        "id": 4,
+                        "name": "cave"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Smart Home Tech"
+                    }
+                ]
+            }
+        ],
+        "is_active": true
+    }
+]
