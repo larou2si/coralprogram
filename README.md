@@ -14,17 +14,20 @@ docker --version
 # Now open the browser and go to http://localhost:8000 to verify the application is running well
 
 ```
-
+## Running the TestCases
+```
+    docker-compose run --rm multiversetask python manage.py test
+```
 
 ## Task1
 ```
 # to generate data for an empty or even existing DB, we used the package 'faker' to generate our random data
-    %docker-compose run --rm multiversetask python manage.py generate_faker_data
+    docker-compose run --rm multiversetask python manage.py generate_faker_data
 
 -> a json will created 'sample.json' = a dump of our database in json format
 
 # to ensure that we work with same DATA use the dumped file 'sample.json'
-    %docker-compose run --rm multiversetask python manage.py loaddata sample.json
+    docker-compose run --rm multiversetask python manage.py loaddata sample.json
 ```
 
 ## Task2 , Task3
@@ -53,6 +56,8 @@ recommandation/<str:date>/ : GET API
 ```
 - we should refine the workflow used in the Task1
 - secret our API with authentification, Tokens..
+- add more TestCase scenarios to validate the project before deployment
+- integrate github actions fonctionality! automate devops
 - develop an analytic dashboard where we could plot the correlation between 'surface and prix'
 ```
 
